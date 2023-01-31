@@ -87,10 +87,10 @@ var tempData = {}
 
 var autoBuyEnabled = true
 
-const updateSpeed = 20
+var updateSpeed = 20
 const baseLifespan = 365 * 70
-const baseGameSpeed = 4
-const heroIncomeMult = 2500000000000000000
+var baseGameSpeed = 42
+var heroIncomeMult = 2500000000000000000
 
 const permanentUnlocks = ["Quick task display", "Dark Matter", "Dark Matter Skills", "Challenges"]
 
